@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">serchbar</string>
+    <string name="Something_went_wrong">Something Went Wrong</string>
+    <string name="processing">Processing</string>
+    <string name="Please_Wait">Heavy Data processing Please Wait</string>
+    <string name="title_activity_map">Map</string>
+</resources>
